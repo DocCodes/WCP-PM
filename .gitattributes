@@ -1,0 +1,22 @@
+# Auto detect text files and perform LF normalization
+* text eol=lf
+
+# Binaries
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.ico binary
+*.icns binary
+
+*.sln binary
+*.csproj binary
+*.vbproj binary
+*.vcxproj binary
+*.vcproj binary
+*.dbproj binary
+*.fsproj binary
+*.lsproj binary
+*.wixproj binary
+*.modelproj binary
+*.sqlproj binary
+*.wwaproj binary
