@@ -7,7 +7,7 @@
 ## Web and Computer Programming - PM Class
 The PM class programs in C# during the first semester and C++ during the second semester. Our teacher encourages us to host our code on GitHub and this is my repo for such code.
 
-## C++ Chapter 3
+## C++ Chapter 3 - Loops
 ### [Loops - 20's](Loops20)
 Write a program that counts by 20 using the for loop. What needs to be displayed on the screen is the numbers from 20 - 180.
 ### [Loops - Grades](LoopsGrades)

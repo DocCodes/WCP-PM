@@ -7,7 +7,7 @@
 ## Web and Computer Programming - PM Class
 The PM class programs in C# during the first semester and C++ during the second semester. Our teacher encourages us to host our code on GitHub and this is my repo for such code.
 
-## C++ Chapter 2
+## C++ Chapter 2 - If Statements
 ### [Leap Year](LeapYear)
 Allow the user to enter a year and the program should indicate if the year is a leap year or not.
 ### [Largest of 3](LargestThree)

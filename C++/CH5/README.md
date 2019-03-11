@@ -7,7 +7,7 @@
 ## Web and Computer Programming - PM Class
 The PM class programs in C# during the first semester and C++ during the second semester. Our teacher encourages us to host our code on GitHub and this is my repo for such code.
 
-## C++ Chapter 5
+## C++ Chapter 5 - Functions
 ### [Practice functions](vsdoubler)
 Create a program that will double the numbers that the user will enter. The program will end when the user enters a sentinel value.
 ### [Functions](vsfunctions)

@@ -7,7 +7,7 @@
 ## Web and Computer Programming - PM Class
 The PM class programs in C# during the first semester and C++ during the second semester. Our teacher encourages us to host our code on GitHub and this is my repo for such code.
 
-## C++ Chapter 7
+## C++ Chapter 7 - Strings
 ### [String Search](SubstringSearch)
 Write a program that takes two arguments at the command line, both strings. The program checks to see whether or not the second string is a substring of the first.
 ### [Add them Up](addup)

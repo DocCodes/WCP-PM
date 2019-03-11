@@ -7,7 +7,7 @@
 ## Web and Computer Programming - PM Class
 The PM class programs in C# during the first semester and C++ during the second semester. Our teacher encourages us to host our code on GitHub and this is my repo for such code.
 
-## C++ Chapter 4
+## C++ Chapter 4 - Arrays
 ### [Salary Application](vssalary)
 Create a salary application that will store salary amount in an array. Each salary amount corresponds to a salary code; the valid codes are the number 1 through 6. Follow the table below to set up the array.
 ### [Yearly expenses](vsexpense)
