@@ -17,13 +17,3 @@ The PM class programs in C# during the first semester and C++ during the second 
 ### [Chapter 7. Arrays](C#/CH7)
 ### [Chapter 8. Input](C#/CH8)
 ### [Chapter 9. Advanced Forms](C#/CH9)
-
-## C++ Chapter Map
-### [Chapter 1. Introduction](C++/CH1)
-### [Chapter 2. If Statements](C++/CH2)
-### [Chapter 3. Loops](C++/CH3)
-### [Chapter 4. Arrays](C++/CH4)
-### [Chapter 5. Functions](C++/CH5)
-### [Chapter 6. Overloading](C++/CH6)
-### [Chapter 7. Strings](C++/CH7)
-### [Chapter 8. Classes](C++/CH8)
